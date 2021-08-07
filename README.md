@@ -1,4 +1,5 @@
 # Intel-Image-Classification
+Ryan Johnston, Scott Pellegrino, Troy Stolz
 ## DATA 607 Group Project
 
 ### Introduction and Background
