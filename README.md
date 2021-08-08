@@ -44,9 +44,10 @@ computation intensity, we may try to optimize our code to be able to utilize the
 prediction.
 
 ### References
-Intel Challenge (2018), ‘Intel scene classification challenge’. data retrieved from Kaggle, https:
-//www.kaggle.com/puneet6060/intel-image-classification.
+Intel Challenge (2018), ‘Intel scene classification challenge’. data retrieved from Kaggle, https://www.kaggle.com/puneet6060/intel-image-classification.
+
 LeCun, Y., Bengio, Y. & Hinton, G. (2015), ‘Deep learning’, Nature 521(7553), 436–444.
-URL: https: // doi. org/ 10. 1038/ nature14539
+URL: https://doi.org/10.1038/nature14539
+
 Moravec, H. (1988), Mind Children: The Future of Robot and Human Intelligence, Harvard
 University Press, USA.
