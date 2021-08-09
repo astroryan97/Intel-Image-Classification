@@ -1,5 +1,10 @@
 # Intel-Image-Classification
-Ryan Johnston, Scott Pellegrino, Troy Stolz
+
+**Authors:** <br>
+Ryan Johnston (https://github.com/astroryan97) <br>
+Scott Pellegrino  <br>
+Troy Stolz (https://github.com/Salsasharkz) <br>
+
 ## DATA 607 Group Project
 
 ### Introduction and Background
