@@ -2,7 +2,7 @@
 
 **Authors:** <br>
 Ryan Johnston (https://github.com/astroryan97) <br>
-Scott Pellegrino  <br>
+Scott Pellegrino (https://www.linkedin.com/in/rspellegrino/) <br>
 Troy Stolz (https://github.com/Salsasharkz) <br>
 
 ## DATA 607 Group Project
